@@ -1,0 +1,5 @@
+# Ignore all of AppData
+AppData/
+
+# You can also specify specific paths if needed
+AppData/Local/Microsoft/Windows/INetCache/
